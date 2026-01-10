@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/junist-aurelien-cysa-0b96141ab//">Junist Aurelien</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about cybersecurity and enjoy solving complex problems through hands-on projects. From vulnerability management to threat detection, these initiatives allow me to deepen my skills and stay current in a rapidly evolving field. Feel free to explore them to see how I’ve worked to strengthen security operations and improve overall processes!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/junist-aurelien-cysa-0b96141ab/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
