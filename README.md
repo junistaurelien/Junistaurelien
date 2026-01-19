@@ -11,6 +11,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/junistaurelien/threat-hunting-scenario-tor)**
+- **[Threat Hunt Scenario ( Ports )](https://github.com/junistaurelien/Threat-Hunt-PORTS-)**
 
 <hr/>
 
