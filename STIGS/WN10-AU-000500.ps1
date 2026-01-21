@@ -25,7 +25,7 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
 
-# YOUR CODE GOES HERE
+#WN10-AU-000500
 
 # Sets:
 # HKLM\SOFTWARE\Policies\Microsoft\Windows\Eventlog\Application
