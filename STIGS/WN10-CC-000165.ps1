@@ -25,7 +25,7 @@
 #>
 
 
-# YOUR CODE GOES HERE WN10-CC-000165 
+#WN10-CC-000165 
 
 #Requires -RunAsAdministrator
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Rpc'
