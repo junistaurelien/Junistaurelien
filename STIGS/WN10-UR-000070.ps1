@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    (Ignore NetBIOS name release requests except from WINS) 
+    (Deny network logon: Guests + (Domain Admins/Enterprise Admins/Local account if domain-joined) 
 
 .NOTES
     Author          : Junist Aurelien
