@@ -25,7 +25,7 @@
 #>
 
 
-# YOUR CODE GOES HERE WN10-AC-000020
+#WN10-AC-000020
 #Requires -RunAsAdministrator
 # Sets local password history to 24 remembered passwords
 net accounts /uniquepw:24 | Out-Null
