@@ -25,7 +25,7 @@
 #>
 
 
-# YOUR CODE GOES HERE WN10-CC-000090
+#WN10-CC-000090
 #Requires #Requires -RunAsAdministrator
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}'
 $name = 'NoGPOListChanges'
