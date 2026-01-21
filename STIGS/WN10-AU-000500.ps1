@@ -4,8 +4,8 @@
 
 .NOTES
     Author          : Junist Aurelien
-    LinkedIn        : linkedin.com/in/Junistaurelien/
-    GitHub          : github.com/joshmadakor1
+    LinkedIn        : www.linkedin.com/in/junist-aurelien-cysa-0b96141ab
+    GitHub          : https://github.com/junistaurelien/
     Date Created    : 2026-1-21
     Last Modified   : 2026-1-21
     Version         : 1.0
