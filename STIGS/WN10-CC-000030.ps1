@@ -24,7 +24,7 @@
    
 #>
 
-# YOUR CODE GOES HERE
+# WN10-CC-000030 
 <#
 Remediation: WN10-CC-000030
 Requirement: Prevent ICMP redirects from overriding routes
