@@ -25,7 +25,7 @@
 #>
 
 
-# YOUR CODE GOES HERE WN10-AU-000585 
+# WN10-AU-000585 
 #Requires #Requires -RunAsAdministrator
 auditpol /set /subcategory:"Process Creation" /failure:enable | Out-Null
 
