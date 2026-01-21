@@ -25,7 +25,7 @@
 #>
 
 
-# YOUR CODE GOES HERE WN10-SO-000080  
+# WN10-SO-000080  
 #Requires -RunAsAdministrator
 $caption = 'DoD Notice and Consent Banner'   # <-- change if your org requires different title text
 $path = 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System'
