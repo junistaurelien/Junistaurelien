@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/junist-aurelien-cysa-0b96141ab//">Junist Aurelien</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and enjoy solving complex problems through hands-on projects. From vulnerability management to threat detection, these initiatives allow me to deepen my skills and stay current in a rapidly evolving field. Feel free to explore them to see how I’ve worked to strengthen security operations and improve overall processes!
+Cybersecurity Analyst with a focus on vulnerability management and detection engineering, leveraging automation to streamline remediation and strengthen security posture. Hands-on experience with Tenable/Nessus-driven security assessments and control validation.
 
 
 ## ⚠️ Vulnerability Management Projects
