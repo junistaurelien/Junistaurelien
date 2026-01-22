@@ -6,7 +6,7 @@ I’m passionate about cybersecurity and enjoy solving complex problems through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/junistaurelien/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/junistaurelien/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
