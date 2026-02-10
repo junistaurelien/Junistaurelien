@@ -15,8 +15,23 @@ Cybersecurity Analyst with a focus on vulnerability management and detection eng
 ## 🛡️ GRC Analyst 
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/junistaurelien/GRC-Analyst-Project-)**
 ## 💻 GRC Engineer Projects 💻 ## 
-- **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/junistaurelien/GRC-Engineer-Projects)** 
+- **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/junistaurelien/GRC-Engineer-Projects)**
+- **[AWS_Cloud_Encryption_Evidence](https://github.com/junistaurelien/AWS_Cloud_Encryption_Evidence/tree/main)**
 
+## 📜 Certifications
+•	CompTIA Security+ (Sec+)
+•	CompTIA Cybersecurity Analyst (CySA+)
+•	CompTIA Security Analytics Professional (CSAP)
+•	Microsoft Certified: Azure Fundamentals (AZ-900)
+•	Certified ScrumMaster (CSM)
+•	Certified Scrum Product Owner (CSPO)
+• Certified Information Systems Security Professional (In Progress) 
+
+## Additonals Skills & Technologies 
+Endpoint Detection and Response (EDR); CVE/CWE Management; CVSS Scoring; OWASP Top 10; Risk Prioritization; Vulnerability Remediation; PowerShell Scripting; BASH Scripting; Firewall/NSG Configuration; Microsoft Sentinel; Linux; NIST SP 800-37 Risk Management Framework; NIST SP 800-53 Security and Privacy Controls; NIST SP 800-61 Computer Security Incident Handling Guide; NIST SP 800-40 Enterprise Patch Management Planning; NIST Cybersecurity Framework; PCI-DSS; GDPR; HIPAA.
+
+
+    
 
 <hr/>
 
