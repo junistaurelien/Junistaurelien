@@ -17,6 +17,7 @@ Cybersecurity Analyst with a focus on vulnerability management and detection eng
 ## 💻 GRC Engineer Projects 💻 ## 
 - **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/junistaurelien/GRC-Engineer-Projects)**
 - **[AWS_Cloud_Encryption_Evidence](https://github.com/junistaurelien/AWS_Cloud_Encryption_Evidence/tree/main)**
+- **[AWS Cloudtrail Vaildator](https://github.com/junistaurelien/Cloudtrail_Validator/tree/main)**
 
 ## 📜 Certifications
 •	CompTIA Security+ (Sec+)
