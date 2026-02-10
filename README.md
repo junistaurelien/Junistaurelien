@@ -12,6 +12,7 @@ Cybersecurity Analyst with a focus on vulnerability management and detection eng
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/junistaurelien/threat-hunting-scenario-tor)**
 - **[Threat Hunt Scenario ( Ports )](https://github.com/junistaurelien/Threat-Hunt-PORTS-)**
+##  GRC Analyst 
 
 <hr/>
 
