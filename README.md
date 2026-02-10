@@ -19,6 +19,7 @@ Security-focused IT professional with years of hands-on cybersecurity experience
 - **[AWS_Cloud_Encryption_Evidence](https://github.com/junistaurelien/AWS_Cloud_Encryption_Evidence/tree/main)**
 - **[AWS_Cloudtrail_Vaildator](https://github.com/junistaurelien/Cloudtrail_Validator/tree/main)**
 - **[AWS_Password_policy_Verification](https://github.com/junistaurelien/AWS_Password_Policy_Verification)**
+- **[AWS_Least_Privilege_Compliance_Checker](https://github.com/junistaurelien/AWS_Least_Privilege_Compliance_Checker)**
 
 
 ## 📜 Certifications
