@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/junist-aurelien-cysa-0b96141ab//">Junist Aurelien</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cybersecurity Analyst with a focus on vulnerability management and detection engineering, leveraging automation to streamline remediation and strengthen security posture. Hands-on experience with Tenable/Nessus-driven security assessments and control validation.
+Security-focused IT professional with years of hands-on cybersecurity experience across Vulnerability Management and GRC/compliance. Skilled in Tenable-based assessments, CVE/CVSS risk prioritization, remediation tracking, and strengthening security posture through secure configuration baselines (e.g., DISA STIG) and operational controls. Experienced with Microsoft Sentinel, Defender for Endpoint, and KQL to support detection, investigation, and threat-hunting workflows. Trusted communicator known for clear documentation, stakeholder alignment, and disciplined incident ownership in high-stakes environments handling sensitive data—translating technical findings into actionable remediation plans and audit-ready evidence.
 
 
 ## ⚠️ Vulnerability Management Projects
