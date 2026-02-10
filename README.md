@@ -18,6 +18,8 @@ Security-focused IT professional with years of hands-on cybersecurity experience
 - **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/junistaurelien/GRC-Engineer-Projects)**
 - **[AWS_Cloud_Encryption_Evidence](https://github.com/junistaurelien/AWS_Cloud_Encryption_Evidence/tree/main)**
 - **[AWS_Cloudtrail_Vaildator](https://github.com/junistaurelien/Cloudtrail_Validator/tree/main)**
+- **[AWS_Password_policy_Verification](https://github.com/junistaurelien/AWS_Password_Policy_Verification)**
+
 
 ## 📜 Certifications
 •	CompTIA Security+ (Sec+)
