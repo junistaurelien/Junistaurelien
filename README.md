@@ -15,7 +15,7 @@ Cybersecurity Analyst with a focus on vulnerability management and detection eng
 ## 🛡️ GRC Analyst 
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/junistaurelien/GRC-Analyst-Project-)**
 ## 💻 GRC Engineer Projects 💻 ## 
-- **[AWS_Security_Hub_To_Excel_Pipeline]
+- **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/junistaurelien/GRC-Engineer-Projects)** 
 
 
 <hr/>
