@@ -2,6 +2,12 @@
 
 Security-focused IT professional with years of hands-on cybersecurity experience across Vulnerability Management and GRC/compliance. Skilled in Tenable-based assessments, CVE/CVSS risk prioritization, remediation tracking, and strengthening security posture through secure configuration baselines (e.g., DISA STIG) and operational controls. Experienced with Microsoft Sentinel, Defender for Endpoint, and KQL to support detection, investigation, and threat-hunting workflows. Trusted communicator known for clear documentation, stakeholder alignment, and disciplined incident ownership in high-stakes environments handling sensitive data—translating technical findings into actionable remediation plans and audit-ready evidence.
 
+## 🧠 Agentic Security Automation Portfolio  
+AI-Assisted Vulnerability Management | GRC Engineering | SecOps Automation
+- **[Vulnator-AI-Vulnerability-Automation](https://github.com/junistaurelien/Vulnator-AI-Vulnerability-Automation)**
+- **[SecOps-Sentinel-Suite](https://github.com/junistaurelien/SecOps-Sentinel-Suite)**
+- **[Agentic-RemediateBot](https://github.com/junistaurelien/Agentic-RemediateBot)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
