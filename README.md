@@ -27,6 +27,10 @@ AI-Assisted Vulnerability Management | GRC Engineering | SecOps Automation
 - **[AWS_Password_policy_Verification](https://github.com/junistaurelien/AWS_Password_Policy_Verification)**
 - **[AWS_Least_Privilege_Compliance_Checker](https://github.com/junistaurelien/AWS_Least_Privilege_Compliance_Checker)**
 
+ ## 🖧 Enterprise Network Segmentation & VLAN Security Lab ##
+ 
+ - **[Enterprise Network Segmentation VLAN Security Lab](https://github.com/junistaurelien/Enterprise-Network-Segmentation-VLAN-Security-Lab-/tree/main)**
+
 
 ## 📜 Certifications
 •	CompTIA Security+ (Sec+)
